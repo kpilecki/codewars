@@ -1,5 +1,7 @@
 package logic;
 
+import java.util.Queue;
+
 public class RangeExtraction {
     public static String rangeExtraction(int[] arr) {
         String result = "";
