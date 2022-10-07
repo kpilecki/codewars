@@ -42,4 +42,7 @@ public class Shortener {
 
         return rez;
     }
+    private String incrementKey(String in){
+
+    }
 }
